@@ -11,5 +11,5 @@
 	   http://www.springframework.org/schema/context/spring-context-4.0.xsd">
 
     <!-- dubbo调用 -->
-    <import resource="spring-dubbo.xml"/>
+    <!--<import resource="spring-dubbo.xml"/>-->
 </beans>
